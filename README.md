@@ -6,7 +6,7 @@
 
 ## 📸 Screenshot
 
-![Screenshot of the Nexcel website homepage](img/ScreenShotHome.png)
+![Screenshot of the Nexcel website homepage](assets/img/ScreenShotHome.png)
 
 <br>
 
